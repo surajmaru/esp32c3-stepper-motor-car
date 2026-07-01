@@ -6,15 +6,15 @@
 
 ## Components used:-
 
--28BYJ-48 x 2 stepper motors
--ULN2003 Driver Board
--ESP32C3 supermini
--5v booster + charging module
--18650 li-ion battery
--wheels
--white led, red led and passive buzzer
--brass wire
--acrylic sheet
+- 28BYJ-48 x 2 stepper motors
+- ULN2003 Driver Board
+- ESP32C3 supermini
+- 5v booster + charging module
+- 18650 li-ion battery
+- wheels
+- white led, red led and passive buzzer
+- brass wire
+- acrylic sheet
 
 ## Diagram
 
