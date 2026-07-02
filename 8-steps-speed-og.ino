@@ -40,7 +40,7 @@ const uint8_t STEP_SEQ[8][4] = {
   {0,1,1,0},
   {0,0,1,0},
   {0,0,1,1},
-  {0,0,0,1},c:\Users\SURAJ MARU\Downloads\esp32c3_stepper_car (3).ino
+  {0,0,0,1},
   {1,0,0,1}
 };
 
@@ -148,7 +148,7 @@ const char INDEX_HTML[] PROGMEM = R"rawliteral(
 <style>
   body{
     background:#0a0a0a;color:#eee;font-family:Arial,Helvetica,sans-serif;
-    text-align:center;margin:0;padding:20px;
+    text-align:center;margin:0;padding:20px;user-select:none;
   }
   h1{color:#fff;letter-spacing:2px;font-size:22px;margin-bottom:4px;}
   .sub{color:#888;font-size:12px;margin-bottom:20px;}
